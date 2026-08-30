@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,8 +15,25 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
