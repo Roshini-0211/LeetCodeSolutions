@@ -9,6 +9,7 @@
 | [0136-single-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
