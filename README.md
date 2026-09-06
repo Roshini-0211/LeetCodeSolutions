@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0136-single-number/) | Easy |
@@ -14,11 +15,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
@@ -72,4 +75,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
