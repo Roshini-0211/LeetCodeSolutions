@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -43,6 +44,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
