@@ -20,6 +20,7 @@
 | [0015-3sum](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -94,5 +95,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
