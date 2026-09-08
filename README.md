@@ -28,6 +28,7 @@
 | [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
@@ -89,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0075-sort-colors/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
