@@ -22,6 +22,7 @@
 | [0088-merge-sorted-array](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0680-valid-palindrome-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +98,9 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
 <!---LeetCode Topics End-->
