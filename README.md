@@ -62,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +105,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
