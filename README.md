@@ -55,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +116,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
