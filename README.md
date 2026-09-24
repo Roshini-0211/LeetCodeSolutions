@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@
 | [0169-majority-element](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -124,4 +127,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
