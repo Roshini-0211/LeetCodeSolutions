@@ -15,6 +15,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +70,7 @@
 | [0509-fibonacci-number](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/0509-fibonacci-number/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Roshini-0211/LeetCodeSolutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
